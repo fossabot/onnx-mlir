@@ -2,6 +2,7 @@
 The Open Neural Network Exchange implementation in MLIR.
 
 [![CircleCI](https://circleci.com/gh/onnx/onnx-mlir/tree/master.svg?style=svg)](https://circleci.com/gh/onnx/onnx-mlir/tree/master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fthebyrd%2Fonnx-mlir.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fthebyrd%2Fonnx-mlir?ref=badge_shield)
 
 ## Prerequisites
 
@@ -210,3 +211,7 @@ module {
 ## Troubleshooting
 
 If the latest LLVM project fails to work due to the latest changes to the MLIR subproject please consider using a slightly older version of LLVM. One such version, which we use, can be found [here](https://github.com/clang-ykt/llvm-project).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fthebyrd%2Fonnx-mlir.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fthebyrd%2Fonnx-mlir?ref=badge_large)
